@@ -1,0 +1,17 @@
+[33mcommit 95ece1d7425456731a224cead935b3105429cdf3[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: mahboub.j79@gmail.com <mahboub.j79@gmail.com>
+Date:   Sun Apr 23 11:51:12 2023 +0430
+
+    create apps & main_app folder
+
+[33mcommit 95c3528b1a2e4ae8db0d301ddc76941126d47ee5[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: mahboub.j79@gmail.com <mahboub.j79@gmail.com>
+Date:   Sat Apr 22 18:44:00 2023 +0430
+
+    start django project
+
+[33mcommit c52093b47e4c80c735bcae84b7013a0a8717c809[m
+Author: mahboub.j79@gmail.com <mahboub.j79@gmail.com>
+Date:   Sat Apr 22 18:18:13 2023 +0430
+
+    commit venv folder
