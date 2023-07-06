@@ -112,9 +112,7 @@
 
 
 /* Tests */
-#tests{
-    margin: 0px 20px;
-}
+
 .area {
     margin: 0 auto;
     padding: 4rem 2rem 1rem;
@@ -140,21 +138,18 @@
     border-color: #020a0983;
 }
 
-.btn-secondary:hover,
-.btn-secondary:focus {
+.btn-secondary:hover{
     background-color: rgba(158, 116, 158, 0.859);
     border-color: #020a0983;
     outline-offset: 10px;
 }
 
-
 /* End Tests */
 
 
+
 /* Servieces */
-#services{
-    padding: 0px 20px;
-}
+
 .jumbotron {
     margin-bottom: 0;
     padding: 2rem 0 3.5rem;
@@ -194,9 +189,8 @@ h2.title {
     font-size: 1.1rem;
     color: #fff;
 }
-
-
 /* End Servieces */
+
 
 
 /* Product Group */
