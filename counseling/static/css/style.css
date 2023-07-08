@@ -58,17 +58,18 @@
     left: 0;
     width: 100%;
     height: 100%;
+    
 }
-
 .home-inner {
     position: fixed;
     top: 0;
     left:  0;
     width: 100%;
     height: 100%;
-    background: url(../../media/images/bg/dark_tint.png), url(../../media/images/bg/5.jpg);
+    background: url(../../media/images/bg/dark_tint.png),url(../../media/images/bg/5.jpg);
     background-size: cover;
     background-position: center center;
+    
 }
 
 .caption {
@@ -84,26 +85,25 @@
     font-size: 4rem;
     font-weight: 700;
     letter-spacing: 0.3rem;
-    text-shadow: 0.1rem 0.1rem 0.8rem #000;
+    text-shadow: 0.1rem 0.1rem 0.8rem #aaaaaa;
     padding-bottom: 1rem;
 }
 
 .caption h3 {
     font-family: koodak;
     font-size: 2rem;
-    text-shadow: 0.1rem 0.1rem 0.5rem #000;
+    text-shadow: 0.1rem 0.1rem 0.5rem #a1a0a0;
     padding-bottom: 1.6rem;
 }
 
 .caption .btn-start {
     font-family: 'koodak';
-    background-color: rgb(173, 24, 181);
-    box-shadow: #000;
+    background-color: rgba(0, 255, 225, 0.3);
+    box-shadow: 1px 1px 3px #aaaaaa;
     font-size: 1.2rem;
     letter-spacing: 0.08rem;
     border-width: 0.1rem;
     border-radius: 0;
-    border-color: rgb(173, 24, 181);
     padding: 0.5rem 1rem;
 }
 
@@ -129,19 +129,19 @@
 
 .btn-secondary {
     border-width: 0.1rem;
-    border-radius: 0;
+    border-radius: 2px;
     font-size: 1.2rem;
     padding: 0.6rem 1.2rem;
     margin: 1rem;
     color: #fff;
-    background-color: rgb(173, 24, 181);
-    border-color: #020a0983;
+    background-color: #1ebba3;
+    border-color: #1ebba3;
+    box-shadow: 2px 2px 4px #616060;
 }
 
 .btn-secondary:hover{
-    background-color: rgba(158, 116, 158, 0.859);
-    border-color: #020a0983;
-    outline-offset: 10px;
+    background-color: #169c88;
+    border-color: #169c88;
 }
 
 /* End Tests */
@@ -154,7 +154,8 @@
     margin-bottom: 0;
     padding: 2rem 0 3.5rem;
     border-radius: 0;
-    background-color: rgb(173, 24, 181);
+    background-color: #11e2b5f7;
+    
     
 }
 
@@ -220,13 +221,13 @@ h2.title {
     width: 100%;
     height: 100%;
     display: block;
-    background-image: url(../images/root/back2.jpg);
+    background-image: url(../../media/images/bg/1.jpg);
     background-size: cover;
     background-position: center center;
 }
 
 .group-backgroun .dark {
-    background-color: rgba(0, 0, 0, 0.7);
+    background-color: rgba(0, 0, 0, 0.4);
     color: #fff;
     padding: 7rem 2rem;
 }
@@ -235,9 +236,9 @@ h2.title {
 /* End Product Group */
 
 
-/* Teachers */
+/* Consultants */
 
-#teachers img {
+#consultants img {
     width: 100%;
     border-radius: 50%;
 }
@@ -253,12 +254,12 @@ blockquote i {
     margin: 1rem;
 }
 
-.teacher-hr {
+.consultant-hr {
     border-bottom: 0.1rem solid #1ebba3;
 }
 
 
-/* End Teachers */
+/* End Consultants */
 
 
 /* Author */
